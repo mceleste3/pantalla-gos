@@ -21,7 +21,7 @@ class Gosinfo extends StatelessWidget {
   final gos1 = Gos(
     imagename: "yorkshire.jpg",
     especie: "Yorkshire Terrier",
-    fci: "86",
+    fci: "87",
     origen: "Anglaterra",
     tamany: "Petit",
     temperament:
